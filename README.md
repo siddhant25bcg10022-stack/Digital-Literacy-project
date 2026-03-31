@@ -24,7 +24,7 @@ ________________________________________
 •	Solved a beginner coding problem on HackerRank
 •	Created a Google Form quiz on digital literacy
 📁 Folder: task-3-platforms/
-🔗 Google Form Quiz: [PASTE YOUR LINK HERE]
+🔗 Google Form Quiz: [(https://docs.google.com/forms/d/e/1FAIpQLSfdRmawtDl6yku1f83PfqP1vaSSjFp1shZAup0HSVikHoAqMA/viewform?usp=publish-editor)]
 ________________________________________
 🔹 Task 4: Email Etiquette
 •	Wrote two professional emails
